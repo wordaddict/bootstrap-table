@@ -1,0 +1,10 @@
+body{
+    /* background-image: url("./src/b.jpg"); */
+    background-color: beige;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.test {
+    color: blue
+}
